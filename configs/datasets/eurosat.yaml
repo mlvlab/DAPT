@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "EuroSAT"
+OPTIM:
+  LR: 20.0
+TRAINER:
+  DAPT:
+    VIS_BETA: 100.0
+    TXT_BETA: 10.0

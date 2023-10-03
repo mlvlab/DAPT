@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "Caltech101"
+OPTIM:
+  LR: 0.2
+TRAINER:
+  DAPT:
+    VIS_BETA: 10.0
+    TXT_BETA: 0.01

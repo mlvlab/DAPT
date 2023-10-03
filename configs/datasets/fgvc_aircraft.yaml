@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "FGVCAircraft"
+OPTIM:
+  LR: 2.0
+TRAINER:
+  DAPT:
+    VIS_BETA: 100.0
+    TXT_BETA: 0.01

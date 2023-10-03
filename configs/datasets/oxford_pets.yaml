@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "OxfordPets"
+OPTIM:
+  LR: 0.02
+TRAINER:
+  DAPT:
+    VIS_BETA: 10.0
+    TXT_BETA: 0.1

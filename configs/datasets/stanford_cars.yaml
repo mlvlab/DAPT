@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "StanfordCars"
+OPTIM:
+  LR: 0.002
+TRAINER:
+  DAPT:
+    VIS_BETA: 100.0
+    TXT_BETA: 0.1
