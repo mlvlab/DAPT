@@ -1,0 +1,8 @@
+DATASET:
+  NAME: "ImageNetSketch"
+OPTIM:
+  LR: 2.0
+TRAINER:
+  DAPT:
+    VIS_BETA: 0.01
+    TXT_BETA: 0.01
