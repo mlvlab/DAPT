@@ -12,7 +12,7 @@ cd DAPT
 ```
 
 ### Prepare dataset
-Follow [DATASETS.md](DATASETS.md) to install the datasets.
+Follow [DATASET.md](DATASET.md) to install the datasets.
 
 ### Setup conda environment
 Before creating the environment, you should modify appropriate conda path in `env.yaml`
