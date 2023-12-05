@@ -210,7 +210,7 @@ office_home_dg/
 
 ### Digits-DG
 
-Download link: [google driv](https://drive.google.com/open?id=15V7EsHfCcfbKgsDmzQKj_DfXt_XYp_P7).
+Download link: [google drive](https://drive.google.com/open?id=15V7EsHfCcfbKgsDmzQKj_DfXt_XYp_P7).
 
 File structure:
 
