@@ -1,5 +1,5 @@
 # Distribution-Aware Prompt Tuning for Vision-Language Models
-Official pytorch implementation of "[Distribution-Aware Prompt Tuning for Vision-Language Models](https://arxiv.org/pdf/2309.03406.pdf)" (ICCV 2023).
+Official pytorch implementation of "[Distribution-Aware Prompt Tuning for Vision-Language Models](https://openaccess.thecvf.com/content/ICCV2023/papers/Cho_Distribution-Aware_Prompt_Tuning_for_Vision-Language_Models_ICCV_2023_paper.pdf)" (ICCV 2023).
 <div align="center">
   <img src="asset/dapt.png" width="100%" />
 </div>
